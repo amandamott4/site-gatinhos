@@ -3,6 +3,8 @@ RESUMO DO CURSO (html) - FreeCodeCamp
 ---
  HTML - HyperText Markup Language - Linguagem de Marcação de Hipertexto
 
+##ARQUIVO
+index.html
 
 ## Elementos HTML
 
